@@ -43,6 +43,7 @@ git clone https://github.com/vernesong/OpenClash package/openclash
 #rm -rf ./feeds/packages/net/mosdns
 #rm -rf feeds/packages/net/v2ray-geodata
 rm -rf feeds/luci/themes/luci-theme-argon
+rm -rf feeds/packages/net/shadowsocks-rust
 #rm -rf feeds/luci/themes/luci-theme-bootstrap
 rm -rf feeds/luci/themes/luci-app-argon-config
 
